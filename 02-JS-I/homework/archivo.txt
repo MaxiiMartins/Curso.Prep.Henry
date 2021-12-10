@@ -4,3 +4,4 @@ Strings : Los Strings se le dice a las cadena de texto por ej lo que escribimos 
 Funciones : Es un conjunto de instrucciones que realiza una tarea o calcula un valor por ejemplo mandar un mensaje. Buscas el celular, desbloqueas el celu, buscas la aplicacion para enviar mensajes, escribis el mensaje y luego envias. Es un conjunto de pasos que realizas para determinar una funcion.
 Declaraciones : Declaraciones "return" sirve para poder saber el resulta de una funcion por ejemplo tenes la funcion de suma de dos valores y con el return podes saber cual es el resultado de esa funcion suma. 
 Valores booleanos :Para entender que son los valores booleanos pensemos, una tecla para prender la luz de tu casa, vos al presionar presionar la tecla o te enciende o te apaga la luz, a eso hace referencia los valores booleanos, tenes dos opciones el true y false.
+.
