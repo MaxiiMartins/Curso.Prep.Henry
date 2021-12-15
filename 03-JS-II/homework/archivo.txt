@@ -1,4 +1,4 @@
 for:Es un ciclo que podemos utilizar cuando sabemos cuantas iteraciones vamos a necesitar por ejemplo imprimir en pantalla 1 al 5. Sabemos que tenemos utilizar la funcion imprimir que en este caso 5.
-&&: Es un operador logico llamado "AND" la expresion va a ser True siempre y cuando las dos condiciones sea verdadera sino es False
-||:Es un operador logico llamado "OR" la expresion va a ser True tiene que haber alguna condicion verdadera para que sea True sino False. 
-!:Es un operador logico llamado "NOT" se tu utiliza para negar una expresion por ejemplo si la condicion es True con el operador NOT seria ! condicion daria False.
+&&: Es un operador logico llamado "AND" la expresion va a ser True siempre y cuando las dos condiciones sea verdadera sino es False.
+||:Es un operador logico llamado "OR" la expresion va a ser True tiene que haber alguna o ambas condiciones verdadera para que sea Tru. Devolvera False si las dos condiciones son falso. 
+!:Es un operador logico llamado "NOT" se tu utiliza para negar una expresion por ejemplo si la condicion es True con el operador NOT seria ! condicion daria False. Siempre da como resultado booleano opuesto
