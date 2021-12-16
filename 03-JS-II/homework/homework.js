@@ -208,9 +208,8 @@ function doWhile(numero) {
     num1 = num1 + 5;
     i= i + 1;
   }
-  while (i < 8){
+  while (i < 8)
     return num1;
-  }
 }
 
 
